@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Data Science projects using Python, Pandas, NumPy, and Data Visualization techniques.<br>👯 I’m looking to collaborate on : Beginner-friendly Data Science, Machine Learning, and Python-based projects.<br>🤝 I’m looking for help with : Improving data analysis skills, real-world datasets, and ML model building.<br>🌱 I’m currently learning : Data Science, Machine Learning fundamentals, SQL, and advanced Python.<br>💬 Ask me about : C++, Object-Oriented Programming, Data Structures, Python basics, and DBMS.<br>I enjoy converting raw data into meaningful insights and visuals 📊.<br>
+🔭 I’m currently working on : Data Science projects using Python, Pandas, NumPy, and Data Visualization techniques.<br>👯 I’m looking to collaborate on : Beginner-friendly Data Science, Machine Learning, and Python-based projects.<br>🤝 I’m looking for help with : Improving data analysis skills, real-world datasets, and ML model building.<br>🌱 I’m currently learning : Data Science, Machine Learning fundamentals, SQL, and Python.<br>💬 Ask me about : C++, Object-Oriented Programming, Data Structures, Python basics, and DBMS.<br>I enjoy converting raw data into meaningful insights and visuals 📊.<br>
 
 
 ## 🌐 Socials:
