@@ -3,8 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_jijore1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashjijore1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-jijore)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash_jijore1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashjijore1@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yash-jijore)
 
 
 # 💻 Tech Stack:
